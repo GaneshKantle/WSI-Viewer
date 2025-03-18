@@ -1,0 +1,10 @@
+.image-viewer {
+  position: relative;
+  width: 75%;
+  height: 100%;
+}
+
+.wsi-image {
+  width: 100%;
+  height: auto;
+}
