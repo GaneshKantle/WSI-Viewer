@@ -14,4 +14,6 @@ This application is a Whole Slide Image Viewer that allows users to view and int
 1. Clone the repository:
    ```bash
    git clone https://github.com/ganeshkantle/wsi-viewer
-   cd wsi-viewer # WSI-Viewer
+   cd wsi-viewer
+   npm install
+   npm start
